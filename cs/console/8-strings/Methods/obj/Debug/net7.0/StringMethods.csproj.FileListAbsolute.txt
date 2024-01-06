@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/8-strings/Methods/bin/Debug/net7.0/StringMethods
+/home/starlit/code/cs/console/8-strings/Methods/bin/Debug/net7.0/StringMethods.deps.json
+/home/starlit/code/cs/console/8-strings/Methods/bin/Debug/net7.0/StringMethods.runtimeconfig.json
+/home/starlit/code/cs/console/8-strings/Methods/bin/Debug/net7.0/StringMethods.dll
+/home/starlit/code/cs/console/8-strings/Methods/bin/Debug/net7.0/StringMethods.pdb
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.AssemblyInfo.cs
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.dll
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/refint/StringMethods.dll
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.pdb
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/StringMethods.genruntimeconfig.cache
+/home/starlit/code/cs/console/8-strings/Methods/obj/Debug/net7.0/ref/StringMethods.dll

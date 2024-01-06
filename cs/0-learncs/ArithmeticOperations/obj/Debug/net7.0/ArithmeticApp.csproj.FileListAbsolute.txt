@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/bin/Debug/net7.0/ArithmeticApp
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/bin/Debug/net7.0/ArithmeticApp.deps.json
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/bin/Debug/net7.0/ArithmeticApp.runtimeconfig.json
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/bin/Debug/net7.0/ArithmeticApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/bin/Debug/net7.0/ArithmeticApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/refint/ArithmeticApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ArithmeticApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/0-learncs/ArithmeticOperations/obj/Debug/net7.0/ref/ArithmeticApp.dll

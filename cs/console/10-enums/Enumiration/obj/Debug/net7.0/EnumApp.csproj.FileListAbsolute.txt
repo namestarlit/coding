@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/10-enums/Enumiration/bin/Debug/net7.0/EnumApp
+/home/starlit/code/cs/console/10-enums/Enumiration/bin/Debug/net7.0/EnumApp.deps.json
+/home/starlit/code/cs/console/10-enums/Enumiration/bin/Debug/net7.0/EnumApp.runtimeconfig.json
+/home/starlit/code/cs/console/10-enums/Enumiration/bin/Debug/net7.0/EnumApp.dll
+/home/starlit/code/cs/console/10-enums/Enumiration/bin/Debug/net7.0/EnumApp.pdb
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.dll
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/refint/EnumApp.dll
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.pdb
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/EnumApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/10-enums/Enumiration/obj/Debug/net7.0/ref/EnumApp.dll

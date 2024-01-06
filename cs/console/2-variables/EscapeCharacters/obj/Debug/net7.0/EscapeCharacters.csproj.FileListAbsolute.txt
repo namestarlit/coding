@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/EscapeCharacters/bin/Debug/net7.0/EscapeCharacters
+/home/starlit/code/cs/console/EscapeCharacters/bin/Debug/net7.0/EscapeCharacters.deps.json
+/home/starlit/code/cs/console/EscapeCharacters/bin/Debug/net7.0/EscapeCharacters.runtimeconfig.json
+/home/starlit/code/cs/console/EscapeCharacters/bin/Debug/net7.0/EscapeCharacters.dll
+/home/starlit/code/cs/console/EscapeCharacters/bin/Debug/net7.0/EscapeCharacters.pdb
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.AssemblyInfo.cs
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.dll
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/refint/EscapeCharacters.dll
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.pdb
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/EscapeCharacters.genruntimeconfig.cache
+/home/starlit/code/cs/console/EscapeCharacters/obj/Debug/net7.0/ref/EscapeCharacters.dll

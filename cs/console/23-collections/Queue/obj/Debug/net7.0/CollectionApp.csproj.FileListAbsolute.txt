@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/23-collections/Queue/bin/Debug/net7.0/CollectionApp
+/home/starlit/code/coding/cs/console/23-collections/Queue/bin/Debug/net7.0/CollectionApp.deps.json
+/home/starlit/code/coding/cs/console/23-collections/Queue/bin/Debug/net7.0/CollectionApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/23-collections/Queue/bin/Debug/net7.0/CollectionApp.dll
+/home/starlit/code/coding/cs/console/23-collections/Queue/bin/Debug/net7.0/CollectionApp.pdb
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.dll
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/refint/CollectionApp.dll
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.pdb
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/CollectionApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/23-collections/Queue/obj/Debug/net7.0/ref/CollectionApp.dll

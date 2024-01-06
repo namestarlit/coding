@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/15-interfaces/Transaction/bin/Debug/net7.0/InterfaceApp
+/home/starlit/code/cs/console/15-interfaces/Transaction/bin/Debug/net7.0/InterfaceApp.deps.json
+/home/starlit/code/cs/console/15-interfaces/Transaction/bin/Debug/net7.0/InterfaceApp.runtimeconfig.json
+/home/starlit/code/cs/console/15-interfaces/Transaction/bin/Debug/net7.0/InterfaceApp.dll
+/home/starlit/code/cs/console/15-interfaces/Transaction/bin/Debug/net7.0/InterfaceApp.pdb
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.dll
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/refint/InterfaceApp.dll
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.pdb
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/InterfaceApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/15-interfaces/Transaction/obj/Debug/net7.0/ref/InterfaceApp.dll

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/9-structures/BookStruct/bin/Debug/net7.0/BookApp
+/home/starlit/code/cs/console/9-structures/BookStruct/bin/Debug/net7.0/BookApp.deps.json
+/home/starlit/code/cs/console/9-structures/BookStruct/bin/Debug/net7.0/BookApp.runtimeconfig.json
+/home/starlit/code/cs/console/9-structures/BookStruct/bin/Debug/net7.0/BookApp.dll
+/home/starlit/code/cs/console/9-structures/BookStruct/bin/Debug/net7.0/BookApp.pdb
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.dll
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/refint/BookApp.dll
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.pdb
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/BookApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/9-structures/BookStruct/obj/Debug/net7.0/ref/BookApp.dll

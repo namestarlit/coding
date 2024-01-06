@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/21-attributes/Properties/bin/Debug/net7.0/TutorialsPoint
+/home/starlit/code/coding/cs/console/21-attributes/Properties/bin/Debug/net7.0/TutorialsPoint.deps.json
+/home/starlit/code/coding/cs/console/21-attributes/Properties/bin/Debug/net7.0/TutorialsPoint.runtimeconfig.json
+/home/starlit/code/coding/cs/console/21-attributes/Properties/bin/Debug/net7.0/TutorialsPoint.dll
+/home/starlit/code/coding/cs/console/21-attributes/Properties/bin/Debug/net7.0/TutorialsPoint.pdb
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.dll
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/refint/TutorialsPoint.dll
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.pdb
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/TutorialsPoint.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/21-attributes/Properties/obj/Debug/net7.0/ref/TutorialsPoint.dll

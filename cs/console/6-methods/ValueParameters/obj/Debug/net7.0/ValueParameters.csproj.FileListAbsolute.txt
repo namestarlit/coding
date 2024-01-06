@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/ValueParameters/bin/Debug/net7.0/ValueParameters
+/home/starlit/code/cs/console/6-methods/ValueParameters/bin/Debug/net7.0/ValueParameters.deps.json
+/home/starlit/code/cs/console/6-methods/ValueParameters/bin/Debug/net7.0/ValueParameters.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/ValueParameters/bin/Debug/net7.0/ValueParameters.dll
+/home/starlit/code/cs/console/6-methods/ValueParameters/bin/Debug/net7.0/ValueParameters.pdb
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.dll
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/refint/ValueParameters.dll
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.pdb
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ValueParameters.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/ValueParameters/obj/Debug/net7.0/ref/ValueParameters.dll

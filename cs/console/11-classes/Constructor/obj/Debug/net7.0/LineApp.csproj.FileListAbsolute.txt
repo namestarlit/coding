@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/11-classes/Constructor/bin/Debug/net7.0/LineApp
+/home/starlit/code/cs/console/11-classes/Constructor/bin/Debug/net7.0/LineApp.deps.json
+/home/starlit/code/cs/console/11-classes/Constructor/bin/Debug/net7.0/LineApp.runtimeconfig.json
+/home/starlit/code/cs/console/11-classes/Constructor/bin/Debug/net7.0/LineApp.dll
+/home/starlit/code/cs/console/11-classes/Constructor/bin/Debug/net7.0/LineApp.pdb
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.dll
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/refint/LineApp.dll
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.pdb
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/LineApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/11-classes/Constructor/obj/Debug/net7.0/ref/LineApp.dll

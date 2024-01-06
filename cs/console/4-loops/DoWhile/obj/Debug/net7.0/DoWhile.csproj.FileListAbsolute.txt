@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfo.cs
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/DoWhile/bin/Debug/net7.0/DoWhile
+/home/starlit/code/cs/console/DoWhile/bin/Debug/net7.0/DoWhile.deps.json
+/home/starlit/code/cs/console/DoWhile/bin/Debug/net7.0/DoWhile.runtimeconfig.json
+/home/starlit/code/cs/console/DoWhile/bin/Debug/net7.0/DoWhile.dll
+/home/starlit/code/cs/console/DoWhile/bin/Debug/net7.0/DoWhile.pdb
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.dll
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/refint/DoWhile.dll
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.pdb
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/DoWhile.genruntimeconfig.cache
+/home/starlit/code/cs/console/DoWhile/obj/Debug/net7.0/ref/DoWhile.dll

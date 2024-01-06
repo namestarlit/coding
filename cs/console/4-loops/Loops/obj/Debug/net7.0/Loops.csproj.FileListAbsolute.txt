@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/Loops/bin/Debug/net7.0/Loops
+/home/starlit/code/cs/console/Loops/bin/Debug/net7.0/Loops.deps.json
+/home/starlit/code/cs/console/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/home/starlit/code/cs/console/Loops/bin/Debug/net7.0/Loops.dll
+/home/starlit/code/cs/console/Loops/bin/Debug/net7.0/Loops.pdb
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.dll
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/refint/Loops.dll
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.pdb
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/home/starlit/code/cs/console/Loops/obj/Debug/net7.0/ref/Loops.dll

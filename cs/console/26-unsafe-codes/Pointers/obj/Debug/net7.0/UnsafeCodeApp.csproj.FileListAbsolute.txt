@@ -1,0 +1,5 @@
+/home/starlit/code/coding/cs/console/26-unsafe-codes/Pointers/obj/Debug/net7.0/UnsafeCodeApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/26-unsafe-codes/Pointers/obj/Debug/net7.0/UnsafeCodeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/26-unsafe-codes/Pointers/obj/Debug/net7.0/UnsafeCodeApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/26-unsafe-codes/Pointers/obj/Debug/net7.0/UnsafeCodeApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/26-unsafe-codes/Pointers/obj/Debug/net7.0/UnsafeCodeApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/11-classes/Class/bin/Debug/net7.0/BoxApp
+/home/starlit/code/cs/console/11-classes/Class/bin/Debug/net7.0/BoxApp.deps.json
+/home/starlit/code/cs/console/11-classes/Class/bin/Debug/net7.0/BoxApp.runtimeconfig.json
+/home/starlit/code/cs/console/11-classes/Class/bin/Debug/net7.0/BoxApp.dll
+/home/starlit/code/cs/console/11-classes/Class/bin/Debug/net7.0/BoxApp.pdb
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.dll
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/refint/BoxApp.dll
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.pdb
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/BoxApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/11-classes/Class/obj/Debug/net7.0/ref/BoxApp.dll

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/bin/Debug/net7.0/ErrorHandlingApp
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/bin/Debug/net7.0/ErrorHandlingApp.deps.json
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/bin/Debug/net7.0/ErrorHandlingApp.runtimeconfig.json
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/bin/Debug/net7.0/ErrorHandlingApp.dll
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/bin/Debug/net7.0/ErrorHandlingApp.pdb
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.dll
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/refint/ErrorHandlingApp.dll
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.pdb
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ErrorHandlingApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/19-exceptions/DivideByZero/obj/Debug/net7.0/ref/ErrorHandlingApp.dll

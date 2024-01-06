@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfo.cs
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers
+/home/starlit/code/cs/console/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.deps.json
+/home/starlit/code/cs/console/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.runtimeconfig.json
+/home/starlit/code/cs/console/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.dll
+/home/starlit/code/cs/console/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.pdb
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.dll
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/refint/PrimeNumbers.dll
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.pdb
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.genruntimeconfig.cache
+/home/starlit/code/cs/console/PrimeNumbers/obj/Debug/net7.0/ref/PrimeNumbers.dll

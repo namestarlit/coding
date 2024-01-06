@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/bin/Debug/net7.0/EventApp
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/bin/Debug/net7.0/EventApp.deps.json
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/bin/Debug/net7.0/EventApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/bin/Debug/net7.0/EventApp.dll
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/bin/Debug/net7.0/EventApp.pdb
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.dll
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/refint/EventApp.dll
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.pdb
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/EventApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/22-delegates-and-events/BoilerEvent/obj/Debug/net7.0/ref/EventApp.dll

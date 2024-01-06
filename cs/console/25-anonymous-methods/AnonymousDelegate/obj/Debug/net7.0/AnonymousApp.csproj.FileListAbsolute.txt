@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/bin/Debug/net7.0/AnonymousApp
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/bin/Debug/net7.0/AnonymousApp.deps.json
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/bin/Debug/net7.0/AnonymousApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/bin/Debug/net7.0/AnonymousApp.dll
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/bin/Debug/net7.0/AnonymousApp.pdb
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.dll
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/refint/AnonymousApp.dll
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.pdb
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/AnonymousApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/25-anonymous-methods/AnonymousDelegate/obj/Debug/net7.0/ref/AnonymousApp.dll

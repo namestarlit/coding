@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/19-exceptions/UserDefined/bin/Debug/net7.0/UserDefinedException
+/home/starlit/code/cs/console/19-exceptions/UserDefined/bin/Debug/net7.0/UserDefinedException.deps.json
+/home/starlit/code/cs/console/19-exceptions/UserDefined/bin/Debug/net7.0/UserDefinedException.runtimeconfig.json
+/home/starlit/code/cs/console/19-exceptions/UserDefined/bin/Debug/net7.0/UserDefinedException.dll
+/home/starlit/code/cs/console/19-exceptions/UserDefined/bin/Debug/net7.0/UserDefinedException.pdb
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.AssemblyInfo.cs
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.dll
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/refint/UserDefinedException.dll
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.pdb
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/UserDefinedException.genruntimeconfig.cache
+/home/starlit/code/cs/console/19-exceptions/UserDefined/obj/Debug/net7.0/ref/UserDefinedException.dll

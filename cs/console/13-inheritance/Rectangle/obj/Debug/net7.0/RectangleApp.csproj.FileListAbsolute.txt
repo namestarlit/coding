@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/13-inheritance/Rectangle/bin/Debug/net7.0/RectangleApp
+/home/starlit/code/cs/console/13-inheritance/Rectangle/bin/Debug/net7.0/RectangleApp.deps.json
+/home/starlit/code/cs/console/13-inheritance/Rectangle/bin/Debug/net7.0/RectangleApp.runtimeconfig.json
+/home/starlit/code/cs/console/13-inheritance/Rectangle/bin/Debug/net7.0/RectangleApp.dll
+/home/starlit/code/cs/console/13-inheritance/Rectangle/bin/Debug/net7.0/RectangleApp.pdb
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.dll
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/refint/RectangleApp.dll
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.pdb
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/RectangleApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/13-inheritance/Rectangle/obj/Debug/net7.0/ref/RectangleApp.dll

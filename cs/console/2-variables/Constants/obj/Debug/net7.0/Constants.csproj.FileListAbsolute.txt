@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.AssemblyInfo.cs
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/Constants/bin/Debug/net7.0/Constants
+/home/starlit/code/cs/console/Constants/bin/Debug/net7.0/Constants.deps.json
+/home/starlit/code/cs/console/Constants/bin/Debug/net7.0/Constants.runtimeconfig.json
+/home/starlit/code/cs/console/Constants/bin/Debug/net7.0/Constants.dll
+/home/starlit/code/cs/console/Constants/bin/Debug/net7.0/Constants.pdb
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.dll
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/refint/Constants.dll
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.pdb
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/Constants.genruntimeconfig.cache
+/home/starlit/code/cs/console/Constants/obj/Debug/net7.0/ref/Constants.dll

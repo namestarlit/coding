@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/bin/Debug/net7.0/LearnCSharpApp
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/bin/Debug/net7.0/LearnCSharpApp.deps.json
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/bin/Debug/net7.0/LearnCSharpApp.runtimeconfig.json
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/bin/Debug/net7.0/LearnCSharpApp.dll
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/bin/Debug/net7.0/LearnCSharpApp.pdb
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.dll
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/refint/LearnCSharpApp.dll
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.pdb
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/LearnCSharpApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/0-learncs/SmallestAndLargestNum/obj/Debug/net7.0/ref/LearnCSharpApp.dll

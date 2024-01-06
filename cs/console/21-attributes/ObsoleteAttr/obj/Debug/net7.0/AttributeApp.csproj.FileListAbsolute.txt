@@ -1,0 +1,5 @@
+/home/starlit/code/coding/cs/console/21-attributes/ObsoleteAttr/obj/Debug/net7.0/AttributeApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/21-attributes/ObsoleteAttr/obj/Debug/net7.0/AttributeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/21-attributes/ObsoleteAttr/obj/Debug/net7.0/AttributeApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/21-attributes/ObsoleteAttr/obj/Debug/net7.0/AttributeApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/21-attributes/ObsoleteAttr/obj/Debug/net7.0/AttributeApp.csproj.CoreCompileInputs.cache

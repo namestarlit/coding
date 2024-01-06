@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/20-file_io/ReadTXT/bin/Debug/net7.0/FileApp
+/home/starlit/code/cs/console/20-file_io/ReadTXT/bin/Debug/net7.0/FileApp.deps.json
+/home/starlit/code/cs/console/20-file_io/ReadTXT/bin/Debug/net7.0/FileApp.runtimeconfig.json
+/home/starlit/code/cs/console/20-file_io/ReadTXT/bin/Debug/net7.0/FileApp.dll
+/home/starlit/code/cs/console/20-file_io/ReadTXT/bin/Debug/net7.0/FileApp.pdb
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.dll
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/refint/FileApp.dll
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.pdb
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/FileApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/20-file_io/ReadTXT/obj/Debug/net7.0/ref/FileApp.dll

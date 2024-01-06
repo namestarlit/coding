@@ -1,0 +1,5 @@
+/home/starlit/code/cs/console/18-regular_expression/Matches/obj/Debug/net7.0/RegExpApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/18-regular_expression/Matches/obj/Debug/net7.0/RegExpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/18-regular_expression/Matches/obj/Debug/net7.0/RegExpApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/18-regular_expression/Matches/obj/Debug/net7.0/RegExpApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/18-regular_expression/Matches/obj/Debug/net7.0/RegExpApp.csproj.CoreCompileInputs.cache

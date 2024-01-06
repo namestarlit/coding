@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/Operators/bin/Debug/net7.0/Operators
+/home/starlit/code/cs/console/Operators/bin/Debug/net7.0/Operators.deps.json
+/home/starlit/code/cs/console/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/home/starlit/code/cs/console/Operators/bin/Debug/net7.0/Operators.dll
+/home/starlit/code/cs/console/Operators/bin/Debug/net7.0/Operators.pdb
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.dll
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/refint/Operators.dll
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.pdb
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/home/starlit/code/cs/console/Operators/obj/Debug/net7.0/ref/Operators.dll

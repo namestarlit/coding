@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.AssemblyInfo.cs
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/7-arrays/MyArray/bin/Debug/net7.0/MyArray
+/home/starlit/code/cs/console/7-arrays/MyArray/bin/Debug/net7.0/MyArray.deps.json
+/home/starlit/code/cs/console/7-arrays/MyArray/bin/Debug/net7.0/MyArray.runtimeconfig.json
+/home/starlit/code/cs/console/7-arrays/MyArray/bin/Debug/net7.0/MyArray.dll
+/home/starlit/code/cs/console/7-arrays/MyArray/bin/Debug/net7.0/MyArray.pdb
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.dll
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/refint/MyArray.dll
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.pdb
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/MyArray.genruntimeconfig.cache
+/home/starlit/code/cs/console/7-arrays/MyArray/obj/Debug/net7.0/ref/MyArray.dll

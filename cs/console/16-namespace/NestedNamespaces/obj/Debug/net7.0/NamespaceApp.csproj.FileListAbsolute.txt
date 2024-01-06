@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/bin/Debug/net7.0/NamespaceApp
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/bin/Debug/net7.0/NamespaceApp.deps.json
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/bin/Debug/net7.0/NamespaceApp.runtimeconfig.json
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/bin/Debug/net7.0/NamespaceApp.dll
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/bin/Debug/net7.0/NamespaceApp.pdb
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.dll
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/refint/NamespaceApp.dll
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.pdb
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/NamespaceApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/16-namespace/NestedNamespaces/obj/Debug/net7.0/ref/NamespaceApp.dll

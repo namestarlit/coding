@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/bin/Debug/net7.0/MutliThreadApp
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/bin/Debug/net7.0/MutliThreadApp.deps.json
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/bin/Debug/net7.0/MutliThreadApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/bin/Debug/net7.0/MutliThreadApp.dll
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/bin/Debug/net7.0/MutliThreadApp.pdb
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.dll
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/refint/MutliThreadApp.dll
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.pdb
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/MutliThreadApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/27-multithreding/CreateThread/obj/Debug/net7.0/ref/MutliThreadApp.dll

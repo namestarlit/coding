@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/Recursion/bin/Debug/net7.0/Recursion
+/home/starlit/code/cs/console/6-methods/Recursion/bin/Debug/net7.0/Recursion.deps.json
+/home/starlit/code/cs/console/6-methods/Recursion/bin/Debug/net7.0/Recursion.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/Recursion/bin/Debug/net7.0/Recursion.dll
+/home/starlit/code/cs/console/6-methods/Recursion/bin/Debug/net7.0/Recursion.pdb
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.dll
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/refint/Recursion.dll
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.pdb
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/Recursion.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/Recursion/obj/Debug/net7.0/ref/Recursion.dll

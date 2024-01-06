@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/hellocs/bin/Debug/net7.0/hellocs
+/home/starlit/code/cs/console/hellocs/bin/Debug/net7.0/hellocs.deps.json
+/home/starlit/code/cs/console/hellocs/bin/Debug/net7.0/hellocs.runtimeconfig.json
+/home/starlit/code/cs/console/hellocs/bin/Debug/net7.0/hellocs.dll
+/home/starlit/code/cs/console/hellocs/bin/Debug/net7.0/hellocs.pdb
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.AssemblyInfo.cs
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.dll
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/refint/hellocs.dll
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.pdb
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/hellocs.genruntimeconfig.cache
+/home/starlit/code/cs/console/hellocs/obj/Debug/net7.0/ref/hellocs.dll

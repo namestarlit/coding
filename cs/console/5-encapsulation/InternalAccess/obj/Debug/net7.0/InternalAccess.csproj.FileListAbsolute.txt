@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/bin/Debug/net7.0/InternalAccess
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/bin/Debug/net7.0/InternalAccess.deps.json
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/bin/Debug/net7.0/InternalAccess.runtimeconfig.json
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/bin/Debug/net7.0/InternalAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/bin/Debug/net7.0/InternalAccess.pdb
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.AssemblyInfo.cs
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/refint/InternalAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.pdb
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/InternalAccess.genruntimeconfig.cache
+/home/starlit/code/cs/console/5-encapsulation/InternalAccess/obj/Debug/net7.0/ref/InternalAccess.dll

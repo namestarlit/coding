@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/ForLoop/bin/Debug/net7.0/ForLoop
+/home/starlit/code/cs/console/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/home/starlit/code/cs/console/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/home/starlit/code/cs/console/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/home/starlit/code/cs/console/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/home/starlit/code/cs/console/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll

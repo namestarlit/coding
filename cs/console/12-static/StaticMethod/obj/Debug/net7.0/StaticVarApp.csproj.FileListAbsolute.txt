@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/12-static/StaticMethod/bin/Debug/net7.0/StaticVarApp
+/home/starlit/code/cs/console/12-static/StaticMethod/bin/Debug/net7.0/StaticVarApp.deps.json
+/home/starlit/code/cs/console/12-static/StaticMethod/bin/Debug/net7.0/StaticVarApp.runtimeconfig.json
+/home/starlit/code/cs/console/12-static/StaticMethod/bin/Debug/net7.0/StaticVarApp.dll
+/home/starlit/code/cs/console/12-static/StaticMethod/bin/Debug/net7.0/StaticVarApp.pdb
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.dll
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/refint/StaticVarApp.dll
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.pdb
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/StaticVarApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/12-static/StaticMethod/obj/Debug/net7.0/ref/StaticVarApp.dll

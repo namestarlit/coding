@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/bin/Debug/net7.0/InheritanceApp
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/bin/Debug/net7.0/InheritanceApp.deps.json
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/bin/Debug/net7.0/InheritanceApp.runtimeconfig.json
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/bin/Debug/net7.0/InheritanceApp.dll
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/bin/Debug/net7.0/InheritanceApp.pdb
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.dll
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/refint/InheritanceApp.dll
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.pdb
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/InheritanceApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/13-inheritance/MultipleInheritance/obj/Debug/net7.0/ref/InheritanceApp.dll

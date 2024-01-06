@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/Variables/bin/Debug/net7.0/Variables
+/home/starlit/code/cs/console/Variables/bin/Debug/net7.0/Variables.deps.json
+/home/starlit/code/cs/console/Variables/bin/Debug/net7.0/Variables.runtimeconfig.json
+/home/starlit/code/cs/console/Variables/bin/Debug/net7.0/Variables.dll
+/home/starlit/code/cs/console/Variables/bin/Debug/net7.0/Variables.pdb
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.AssemblyInfo.cs
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.dll
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/refint/Variables.dll
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.pdb
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/Variables.genruntimeconfig.cache
+/home/starlit/code/cs/console/Variables/obj/Debug/net7.0/ref/Variables.dll

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/20-file_io/BinaryFile/bin/Debug/net7.0/BinaryFileApp
+/home/starlit/code/cs/console/20-file_io/BinaryFile/bin/Debug/net7.0/BinaryFileApp.deps.json
+/home/starlit/code/cs/console/20-file_io/BinaryFile/bin/Debug/net7.0/BinaryFileApp.runtimeconfig.json
+/home/starlit/code/cs/console/20-file_io/BinaryFile/bin/Debug/net7.0/BinaryFileApp.dll
+/home/starlit/code/cs/console/20-file_io/BinaryFile/bin/Debug/net7.0/BinaryFileApp.pdb
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.dll
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/refint/BinaryFileApp.dll
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.pdb
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/BinaryFileApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/20-file_io/BinaryFile/obj/Debug/net7.0/ref/BinaryFileApp.dll

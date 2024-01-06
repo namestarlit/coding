@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/NumberManipulator/bin/Debug/net7.0/NumberManipulator
+/home/starlit/code/cs/console/6-methods/NumberManipulator/bin/Debug/net7.0/NumberManipulator.deps.json
+/home/starlit/code/cs/console/6-methods/NumberManipulator/bin/Debug/net7.0/NumberManipulator.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/NumberManipulator/bin/Debug/net7.0/NumberManipulator.dll
+/home/starlit/code/cs/console/6-methods/NumberManipulator/bin/Debug/net7.0/NumberManipulator.pdb
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.dll
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/refint/NumberManipulator.dll
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.pdb
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/NumberManipulator.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/NumberManipulator/obj/Debug/net7.0/ref/NumberManipulator.dll

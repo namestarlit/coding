@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/14-polymorphism/PrintData/bin/Debug/net7.0/PolymorphismApp
+/home/starlit/code/cs/console/14-polymorphism/PrintData/bin/Debug/net7.0/PolymorphismApp.deps.json
+/home/starlit/code/cs/console/14-polymorphism/PrintData/bin/Debug/net7.0/PolymorphismApp.runtimeconfig.json
+/home/starlit/code/cs/console/14-polymorphism/PrintData/bin/Debug/net7.0/PolymorphismApp.dll
+/home/starlit/code/cs/console/14-polymorphism/PrintData/bin/Debug/net7.0/PolymorphismApp.pdb
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.dll
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/refint/PolymorphismApp.dll
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.pdb
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/PolymorphismApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/14-polymorphism/PrintData/obj/Debug/net7.0/ref/PolymorphismApp.dll

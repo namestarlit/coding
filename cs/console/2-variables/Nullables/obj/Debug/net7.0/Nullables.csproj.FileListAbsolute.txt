@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/Nullables/bin/Debug/net7.0/Nullables
+/home/starlit/code/cs/console/6-methods/Nullables/bin/Debug/net7.0/Nullables.deps.json
+/home/starlit/code/cs/console/6-methods/Nullables/bin/Debug/net7.0/Nullables.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/Nullables/bin/Debug/net7.0/Nullables.dll
+/home/starlit/code/cs/console/6-methods/Nullables/bin/Debug/net7.0/Nullables.pdb
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.dll
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/refint/Nullables.dll
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.pdb
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/Nullables.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/Nullables/obj/Debug/net7.0/ref/Nullables.dll

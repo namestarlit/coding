@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/TypeCast/bin/Debug/net7.0/TypeCast
+/home/starlit/code/cs/console/TypeCast/bin/Debug/net7.0/TypeCast.deps.json
+/home/starlit/code/cs/console/TypeCast/bin/Debug/net7.0/TypeCast.runtimeconfig.json
+/home/starlit/code/cs/console/TypeCast/bin/Debug/net7.0/TypeCast.dll
+/home/starlit/code/cs/console/TypeCast/bin/Debug/net7.0/TypeCast.pdb
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.AssemblyInfo.cs
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.dll
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/refint/TypeCast.dll
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.pdb
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/TypeCast.genruntimeconfig.cache
+/home/starlit/code/cs/console/TypeCast/obj/Debug/net7.0/ref/TypeCast.dll

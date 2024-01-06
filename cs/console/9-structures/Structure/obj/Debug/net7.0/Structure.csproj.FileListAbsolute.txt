@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/9-structures/Structure/bin/Debug/net7.0/Structure
+/home/starlit/code/cs/console/9-structures/Structure/bin/Debug/net7.0/Structure.deps.json
+/home/starlit/code/cs/console/9-structures/Structure/bin/Debug/net7.0/Structure.runtimeconfig.json
+/home/starlit/code/cs/console/9-structures/Structure/bin/Debug/net7.0/Structure.dll
+/home/starlit/code/cs/console/9-structures/Structure/bin/Debug/net7.0/Structure.pdb
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.AssemblyInfo.cs
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.dll
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/refint/Structure.dll
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.pdb
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/Structure.genruntimeconfig.cache
+/home/starlit/code/cs/console/9-structures/Structure/obj/Debug/net7.0/ref/Structure.dll

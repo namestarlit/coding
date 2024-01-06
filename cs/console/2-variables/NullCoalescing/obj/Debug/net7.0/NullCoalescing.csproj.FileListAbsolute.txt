@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/NullCoalescing/bin/Debug/net7.0/NullCoalescing
+/home/starlit/code/cs/console/6-methods/NullCoalescing/bin/Debug/net7.0/NullCoalescing.deps.json
+/home/starlit/code/cs/console/6-methods/NullCoalescing/bin/Debug/net7.0/NullCoalescing.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/NullCoalescing/bin/Debug/net7.0/NullCoalescing.dll
+/home/starlit/code/cs/console/6-methods/NullCoalescing/bin/Debug/net7.0/NullCoalescing.pdb
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.dll
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/refint/NullCoalescing.dll
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.pdb
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/NullCoalescing.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/NullCoalescing/obj/Debug/net7.0/ref/NullCoalescing.dll

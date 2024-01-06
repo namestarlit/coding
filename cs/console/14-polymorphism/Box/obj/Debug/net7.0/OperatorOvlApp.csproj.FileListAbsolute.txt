@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.AssemblyInfo.cs
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/14-polymorphism/Box/bin/Debug/net7.0/OperatorOvlApp
+/home/starlit/code/cs/console/14-polymorphism/Box/bin/Debug/net7.0/OperatorOvlApp.deps.json
+/home/starlit/code/cs/console/14-polymorphism/Box/bin/Debug/net7.0/OperatorOvlApp.runtimeconfig.json
+/home/starlit/code/cs/console/14-polymorphism/Box/bin/Debug/net7.0/OperatorOvlApp.dll
+/home/starlit/code/cs/console/14-polymorphism/Box/bin/Debug/net7.0/OperatorOvlApp.pdb
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.dll
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/refint/OperatorOvlApp.dll
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.pdb
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/OperatorOvlApp.genruntimeconfig.cache
+/home/starlit/code/cs/console/14-polymorphism/Box/obj/Debug/net7.0/ref/OperatorOvlApp.dll

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.AssemblyInfo.cs
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/bin/Debug/net7.0/PrivateAccess
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/bin/Debug/net7.0/PrivateAccess.deps.json
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/bin/Debug/net7.0/PrivateAccess.runtimeconfig.json
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/bin/Debug/net7.0/PrivateAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/bin/Debug/net7.0/PrivateAccess.pdb
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/refint/PrivateAccess.dll
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.pdb
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/PrivateAccess.genruntimeconfig.cache
+/home/starlit/code/cs/console/5-encapsulation/PrivateAccess/obj/Debug/net7.0/ref/PrivateAccess.dll

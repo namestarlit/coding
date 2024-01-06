@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/StringConversion/bin/Debug/net7.0/StringConversion
+/home/starlit/code/cs/console/StringConversion/bin/Debug/net7.0/StringConversion.deps.json
+/home/starlit/code/cs/console/StringConversion/bin/Debug/net7.0/StringConversion.runtimeconfig.json
+/home/starlit/code/cs/console/StringConversion/bin/Debug/net7.0/StringConversion.dll
+/home/starlit/code/cs/console/StringConversion/bin/Debug/net7.0/StringConversion.pdb
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.AssemblyInfo.cs
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.dll
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/refint/StringConversion.dll
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.pdb
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/StringConversion.genruntimeconfig.cache
+/home/starlit/code/cs/console/StringConversion/obj/Debug/net7.0/ref/StringConversion.dll

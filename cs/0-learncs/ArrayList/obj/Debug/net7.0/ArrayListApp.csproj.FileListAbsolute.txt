@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayList/bin/Debug/net7.0/ArrayListApp
+/home/starlit/code/coding/cs/0-learncs/ArrayList/bin/Debug/net7.0/ArrayListApp.deps.json
+/home/starlit/code/coding/cs/0-learncs/ArrayList/bin/Debug/net7.0/ArrayListApp.runtimeconfig.json
+/home/starlit/code/coding/cs/0-learncs/ArrayList/bin/Debug/net7.0/ArrayListApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayList/bin/Debug/net7.0/ArrayListApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/refint/ArrayListApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ArrayListApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayList/obj/Debug/net7.0/ref/ArrayListApp.dll

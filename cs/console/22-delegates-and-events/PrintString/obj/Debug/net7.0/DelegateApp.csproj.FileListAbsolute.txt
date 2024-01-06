@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/bin/Debug/net7.0/DelegateApp
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/bin/Debug/net7.0/DelegateApp.deps.json
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/bin/Debug/net7.0/DelegateApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/bin/Debug/net7.0/DelegateApp.dll
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/bin/Debug/net7.0/DelegateApp.pdb
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.dll
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/refint/DelegateApp.dll
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.pdb
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/DelegateApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/22-delegates/PrintString/obj/Debug/net7.0/ref/DelegateApp.dll

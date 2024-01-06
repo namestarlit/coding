@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/bin/Debug/net7.0/ConditionalAttr
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/bin/Debug/net7.0/ConditionalAttr.deps.json
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/bin/Debug/net7.0/ConditionalAttr.runtimeconfig.json
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/bin/Debug/net7.0/ConditionalAttr.dll
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/bin/Debug/net7.0/ConditionalAttr.pdb
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.dll
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/refint/ConditionalAttr.dll
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.pdb
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ConditionalAttr.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/21-attributes/ConditionalAttr/obj/Debug/net7.0/ref/ConditionalAttr.dll

@@ -1,0 +1,15 @@
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/bin/Debug/net7.0/ReferenceParameters
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/bin/Debug/net7.0/ReferenceParameters.deps.json
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/bin/Debug/net7.0/ReferenceParameters.runtimeconfig.json
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/bin/Debug/net7.0/ReferenceParameters.dll
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/bin/Debug/net7.0/ReferenceParameters.pdb
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.csproj.AssemblyReference.cache
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.AssemblyInfoInputs.cache
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.AssemblyInfo.cs
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.csproj.CoreCompileInputs.cache
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.dll
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/refint/ReferenceParameters.dll
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.pdb
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ReferenceParameters.genruntimeconfig.cache
+/home/starlit/code/cs/console/6-methods/ReferenceParameters/obj/Debug/net7.0/ref/ReferenceParameters.dll

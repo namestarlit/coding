@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/bin/Debug/net7.0/GenericApp
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/bin/Debug/net7.0/GenericApp.deps.json
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/bin/Debug/net7.0/GenericApp.runtimeconfig.json
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/bin/Debug/net7.0/GenericApp.dll
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/bin/Debug/net7.0/GenericApp.pdb
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.dll
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/refint/GenericApp.dll
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.pdb
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/GenericApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/console/24-generics/GenericMethod/obj/Debug/net7.0/ref/GenericApp.dll
