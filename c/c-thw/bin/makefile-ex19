@@ -1,0 +1,8 @@
+CFLAGS= -Wall -Werror -Wextra -pedantic -g
+
+all: ex19
+
+ex19: object.o
+
+clean:
+	rm -rf ex19 *.o

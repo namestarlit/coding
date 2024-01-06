@@ -1,0 +1,26 @@
+git config --global user.name "Your Name"
+git config --global user.email "youremail@some.com"
+
+Note:
+	#email should be the same as the one registered on GitHub for your
+	commits to show up
+
+git add . #adds all files in the current directory
+git commit -m "your commit message"
+git push origin master ##You can also just do git push it works fine
+
+git config --edit 
+	#use this to add the token to your file so you won't have to
+	provide token again and again.
+
+git status
+	#checks the status of your files
+	also provides some commands to fix problems along the way
+	when you encounter one.
+
+vi .gitconfig
+	#open your git configuration file. it's found on the home directory
+	probably in the /root directory. so you'll have to cd /root to see it
+	or use vi /root .gitconfig to open it from anywhere.
+
+git clone https://your_token_goes_here@github.com/username/...git
