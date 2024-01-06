@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Apply JavaScript Example</title>
+
+    <script>
+      // JavaScript code goes here
+      document.addEventListener('DOMContentLoaded', () => {
+        function addParagraph() {
+          const para = document.createElement('p');
+          para.textContent = 'You clicked the button!';
+          document.body.appendChild(para);
+        }
+
+        const buttons = document.querySelectorAll('button');
+        for (const button of buttons) {
+          button.addEventListener('click', addParagraph);
+        }
+      });
+    </script>
+  </head>
+
+  <body>
+    <button>Click me</button>
+  </body>
+
+</html>

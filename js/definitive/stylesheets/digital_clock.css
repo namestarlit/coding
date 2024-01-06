@@ -1,0 +1,8 @@
+/* Apply style to element with id='clock' */
+#clock {
+  font: bold 24px sans-serif; /* use bold font */
+  background: #ddf; /* light-bluish gray background */
+  padding: 15px;  /* add padding space */
+  border: solid black 2px;  /* solid black border */
+  border-radius: 10px;  /* round corners */
+}
