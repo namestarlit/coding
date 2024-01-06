@@ -1,0 +1,7 @@
+io.py
+open.py
+text.txt
+workfile
+write
+write.py
+write.txt

@@ -1,0 +1,44 @@
+doctest is serious about requiring exact matches in expected output.
+If even a single character doesn't match, the test fails.
+For example, when printing a set, Python doesn't guarantee that
+the element is printed in any particular order, so test like:
+
+>>> foo()
+{"Herminone", "Harry"}
+
+is vulnerable! One workaround is to do
+>>> foo() == {"Hermione", "Harry"}
+True
+
+instead. Another is to do
+>>> d = sorted(foo())
+>>> d
+['Harry', 'Hermione']
+
+Another bad idea is to print things that embed an object address, like
+
+>>> id(1.0) # certain to fail some of the time
+7948648
+>>> class C: pass
+C() # the default repr() for instances embeds an address
+<C object at 0x00AC18F0>
+
+The ELLIPSIS directive gives a nice approach for the last example:
+C() # doctest: +ELLIPSIS
+<C object at 0x...>
+
+Floating-point numbers are also subject to small output variations accross
+platform, because Python defers to the platform C library for float
+formatting, and C libraries vary widely in quality here.
+
+>>> 1./7 # risky
+0.14285714285714285
+>>> print(1./7) # safer
+0.142857142857
+>>> print(round(1./7, 6)) # much safer
+0.142857
+
+Numbers of the form I/2.**J are safe accross all platforms, and I often
+contrive doctest examples to produce numbers of that form:
+>>> 3./4 # utterly safe
+0.75

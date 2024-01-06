@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Execute SELECT statement in MySQL server
+
+if [[ "$#" -ne 3 ]];then
+	echo "Usage: $0 <username> <database_name> <table_name>"
+	exit 1
+fi
+
+echo "SELECT * FROM $3" | mysql -u "$1" -p "$2"

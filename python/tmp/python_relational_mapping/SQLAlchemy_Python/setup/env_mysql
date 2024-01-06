@@ -1,0 +1,9 @@
+#!/bin/bash
+# Exports MySQL credentials environment variables
+# "Usage: source env_mysql"
+
+export MYSQL_HOST=localhost
+export MYSQL_USER=starlit
+export MYSQL_PWD=starlit.22
+export MYSQL_DB=movie_db
+export PYTHONPATH=`(pwd)`

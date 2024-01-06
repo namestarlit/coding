@@ -1,0 +1,16 @@
+file.py
+file.txt
+io.py
+last_line.py
+man_of_shit.py
+man_of_shit.txt
+open.py
+__pycache__
+seekfile
+seek.py
+test_json.py
+text.txt
+workfile
+write
+write.py
+write.txt

@@ -1,0 +1,31 @@
+directive		::= "#" "doctest:" directive_options
+directive_options	::= directive_option ("," directive_option)*
+directive_option	::= on_or_off directive_option_name
+on_or_off		::= "+" | "-"
+directive_option_name	::= "DONT_ACCEPT_BLANKLINE" | "NORMALIZE_WHITESPACE" | ...
+
+examples:
+# This test won't pass without the directive. because the actual output
+# doesn't have two blank lines.
+>>> print(list(range(20))) # doctest: +NORMALIZE_WHITESPACE
+[0,  1, 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+# This allows the use of ellipsis (...) to match
+# parts of the output with any output.
+>>> print(list(range(20))) # doctest: +ELLIPSIS
+[0, 1, ..., 18, 19]
+
+# Multiple directives on a single physical line
+>>> print(list(range(20))) # doctest: +ELLIPSIS, +NORMALIZE_WHITESPACE
+[0,  1, ...,  18,  19]
+
+# Multiple directives used on a single example are combined
+>>> print(list(range(20))) # doctest: +ELLIPSIS
+...                        # doctest: +NORMALIZE_WHITESPACE
+[0,  1, ..., 18,   19]
+
+# You can use ... to extend doctest directives to the next line.
+>>> print(list(range(5)) + list(range(10, 20)) + list(range(30, 40)))
+... # doctest: +ELLIPSIS
+[0, ..., 4, 10, ..., 19, 30, ..., 39]

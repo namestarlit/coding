@@ -1,0 +1,34 @@
+# The starting column doesn't matter
+>>> assert "Easy!"
+    >>> import math
+        >>> math.floor(1.9)
+	1
+
+>>> [1, 2, 3].remove(42) # doctest: +ELLIPSIS
+Traceback (most recent call last):
+  ...
+ValueError: list.remove(x): x not in list
+
+# Expected output for an exception must start with a traceback header.
+# which is either of the two.
+# Traceback (most recent call last):
+# Traceback (innermost last):
+
+>>> raise ValueError('multi\n	line\ndetail') # doctest: +IGNORE_EXCEPTION_DETAIL
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: multi
+    line
+detail
+
+# The last three lines starting with ValueError are compared against
+# the exception's type and detail, and the rest are ignored.
+
+# Best practice is to omit the traceback stack, unless it adds significant
+# documentantion value to the example. So the last example is probably better
+>>> raise ValueError('multi\n	line\ndetail') # doctest: +IGNORE_EXCEPTION_DETAIL
+Traceback (most recent call last):
+    ...
+ValueError: multi
+    line
+detail
