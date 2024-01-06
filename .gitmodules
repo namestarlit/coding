@@ -1,0 +1,18 @@
+[submodule "c-programming"]
+	path = c-programming
+	url = git@github.com:namestarlit/C.git
+[submodule "python-programming"]
+	path = python-programming
+	url = git@github.com:namestarlit/python.git
+[submodule "c/c-programming"]
+	path = c/c-programming
+	url = git@github.com:namestarlit/c-programming.git
+[submodule "python/python-programming"]
+	path = python/python-programming
+	url = git@github.com:namestarlit/python-programming.git
+[submodule "python/project/mood"]
+	path = python/project/mood
+	url = git@github.com:namestarlit/mood.git
+[submodule "git-practice"]
+	path = git-practice
+	url = git@github.com:namestarlit/git-practice.git
