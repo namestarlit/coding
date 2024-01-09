@@ -1,0 +1,14 @@
+<h1>File Not Found</h1>
+<!-- The translatation will be like this -->
+<!-- There is an addition _() wrapper in the code -->
+<h1>{{ _("File Not Found") }}</h1>
+<h1>{{ _("Hi %(username)s!", username=currrent_user.username) }}</h1>
+
+<!-- Tricky cases to translate -->
+{% set user_link %}
+  <a href="{{ url_for("user", username=post.author.username) }}">
+    {{ post.author.username }}
+  </a>
+{% endset %}
+{{ _("%(username)s said %(when)s",
+  username=user_link, when=moment(post.timestamp).fromNow()) }}
