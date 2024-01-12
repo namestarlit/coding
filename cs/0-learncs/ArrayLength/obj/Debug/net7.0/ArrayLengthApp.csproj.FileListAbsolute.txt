@@ -1,0 +1,15 @@
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/bin/Debug/net7.0/ArrayLengthApp
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/bin/Debug/net7.0/ArrayLengthApp.deps.json
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/bin/Debug/net7.0/ArrayLengthApp.runtimeconfig.json
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/bin/Debug/net7.0/ArrayLengthApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/bin/Debug/net7.0/ArrayLengthApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.csproj.AssemblyReference.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.AssemblyInfoInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.AssemblyInfo.cs
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.csproj.CoreCompileInputs.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/refint/ArrayLengthApp.dll
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.pdb
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ArrayLengthApp.genruntimeconfig.cache
+/home/starlit/code/coding/cs/0-learncs/ArrayLength/obj/Debug/net7.0/ref/ArrayLengthApp.dll
