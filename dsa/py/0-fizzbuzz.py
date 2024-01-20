@@ -2,6 +2,7 @@
 """A fizzbuzz algorithm implementation"""
 import sys
 
+
 def fizzbuzz(count):
     """fizzbuzz implementantion"""
     if count <= 0:
