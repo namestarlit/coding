@@ -2,7 +2,7 @@
 
 /**
  * b_search - binary search algorithm
- * @array: an array of integers
+ * @array: a sorted array of integers
  * @size: size of the array
  * @item: the value to search for
  *
