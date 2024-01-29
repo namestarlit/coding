@@ -25,5 +25,5 @@ if __name__ == "__main__":
     num_list = [1, 2, 3, 4, 5, 6]
 
     num_6 = binary_search(num_list, 6)
-    print(num_6)
-    print(num_list[num_6])
+    print(f"Index -> {num_6}")
+    print("Item: {}".format(num_list[num_6]))
