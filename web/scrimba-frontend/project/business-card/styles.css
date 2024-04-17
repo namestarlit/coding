@@ -34,8 +34,9 @@ body {
      */
 }
 
-.username {
+#username {
   color: #e9ecef;
+  text-decoration: none;
 }
 
 .border-blue {
