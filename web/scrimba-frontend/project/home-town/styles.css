@@ -1,0 +1,98 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #1D3557;
+}
+
+.hero {
+    background-image: url("images/mwanza.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+
+#title {
+    margin: 100px auto 10px auto;
+    background: #1D3557;
+    background-size: cover;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+#subtitle {
+    margin: 10px auto 100px auto;
+    background: #457B9D;
+    width: 500px;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.places {
+    background: #F1FAEE;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.sites {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.site {
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.description {
+    margin-top: 10px;
+    padding: 1px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-weight: normal;
+}
+
+.site-img {
+    width: 100px;
+    border-radius: 50%;
+    
+}
+
+#guide {
+    background: #A8DADC;
+    width: 400px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 4px solid #1D3557;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#guider-img {
+    margin: 6px;
+    border-radius: 10px;
+}
+.bio {
+    padding: 4px;
+}
