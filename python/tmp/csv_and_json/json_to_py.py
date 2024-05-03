@@ -8,7 +8,7 @@ and prints key-value pairs for each row in the JSON file
 
 import json
 
-with open('data-text.json') as json_f:
+with open("data-text.json") as json_f:
     # Read from the json file
     data = json.load(json_f)
 

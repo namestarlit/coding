@@ -8,7 +8,7 @@ Reads CSV file into a Python Dictionary.
 import csv
 
 
-with open('data-text.csv') as csv_file:
+with open("data-text.csv") as csv_file:
     # Create DictReader object.
     csv_dict = csv.DictReader(csv_file)
 
