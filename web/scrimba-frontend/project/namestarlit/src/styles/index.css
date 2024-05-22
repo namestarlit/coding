@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #23252C;
+    color: whitesmoke;
+    
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-style: bold;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.container {
+    margin: 0 auto;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+
+    background-color: #1A1B21;
+    border-radius: 0.6em;
+}
+
+.cover--img {
+    width: 100%;
+}
+
+.main--hero,
+.main--links {
+    text-align: center;
+    margin: 1em;
+}
+
+.main--hero h1,
+.main--hero h2 {
+    margin-top: 0;
+    padding: 0;
+}
+
+.main--hero h2 {
+    font-size: 1.25rem;
+    font-weight: normal;
+    color: #F3BF99;
+}
+
+.main--hero a {
+    text-decoration: none;
+    color: #F5F5F5;
+    font-size: 0.9rem;
+}
+
+.main--links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+}
+
+.main--links a {
+    color: #374151;
+    text-decoration: none;
+
+    padding: 1em 3em;
+    background-color: white;
+    border-radius: 0.6em;
+}
+
+.main--links i {
+    padding-right: 0.5em;
+}
+
+.main--links .social--a {
+    color: whitesmoke;
+    background-color: #5093E2;
+}
+
+.container--main {
+    margin: 0.5em 1em;
+}
+
+.container--main h2 {
+    font-weight: bold;
+}
+
+.container--bio {
+    margin: 3em 2em;
+}
+
+.main--content {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+.main--content p{
+    margin-top: 0;
+}
+
+.container--social {
+    background-color: #161619;
+    padding: 2em 2em;
+    border-radius: 0.6em;
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+}
+
+.container--social a {
+    color: #918E9B;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 48em) {
+   .container {
+    width: 100%;
+   }
+}
