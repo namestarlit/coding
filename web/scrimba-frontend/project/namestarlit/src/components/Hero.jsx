@@ -8,8 +8,8 @@ export default function Hero() {
 			</div>
 			
 			<div className="main--links">
-				<a className='email--a' href="mailto:ns@namestarlit.tech"><i class="fa-solid fa-envelope fa-lg" title='Email'></i>Email</a>
-				<a className='social--a' href="https::/linkedin.com/in/namestarlit"><i class="fa-brands fa-linkedin fa-lg" title='LinkedIn'></i>LinkedIn</a>
+				<a className='email--a' href="mailto:ns@namestarlit.tech"><i className="fa-solid fa-envelope fa-lg" title='Email'></i>Email</a>
+				<a className='social--a' href="https::/linkedin.com/in/namestarlit"><i className="fa-brands fa-linkedin fa-lg" title='LinkedIn'></i>LinkedIn</a>
 			</div>
 		</>
 	)

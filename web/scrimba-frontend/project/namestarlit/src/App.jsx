@@ -15,10 +15,10 @@ export default function App() {
 					</main>
 				</div>
 				<div className='container--social'>
-					<a href="https::/twitter.com/namestarlit"><i class="fa-brands fa-square-x-twitter fa-2xl"></i></a>
-					<a href='#'><i class="fa-brands fa-square-facebook fa-2xl"></i></a>
-					<a href='#'><i class="fa-brands fa-square-instagram fa-2xl"></i></a>
-					<a href="https://github.com/namestarlit"><i class="fa-brands fa-square-github fa-2xl"></i></a>
+					<a href="https::/twitter.com/namestarlit"><i className="fa-brands fa-square-x-twitter fa-2xl"></i></a>
+					<a href='#'><i className="fa-brands fa-square-facebook fa-2xl"></i></a>
+					<a href='#'><i className="fa-brands fa-square-instagram fa-2xl"></i></a>
+					<a href="https://github.com/namestarlit"><i className="fa-brands fa-square-github fa-2xl"></i></a>
 
 				</div>
 			</div>
