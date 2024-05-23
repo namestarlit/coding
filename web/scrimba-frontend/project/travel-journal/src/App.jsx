@@ -1,17 +1,19 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Navbar from './components/Navbar'
+import Place from './components/Place'
 
-function App() {
-  const [count, setCount] = useState(0)
 
+export default function App() {
   return (
-    <>
-      <div className="container">
-      </div>
-    </>
+    <div className='container'>
+      <header>
+        <Navbar />
+      </header>
+      <main>
+        <section className="section--travel">
+          <Place />
+        </section>
+      </main>
+    </div>
   )
 }
 
-export default App
