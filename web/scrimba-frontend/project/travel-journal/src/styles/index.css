@@ -39,6 +39,11 @@ nav h1 {
   gap: 2%;
 }
 
+hr {
+  color: #F5F5F5;
+  width: 93%;
+}
+
 .container--img,
 .place--desc {
   width: 48%;
@@ -73,4 +78,22 @@ nav h1 {
 .desc--date {
   font-size: 1rem;
   font-weight: 700;
+}
+
+@media only screen and (max-width: 1167px) {
+  .container--place {
+    flex-direction: column;
+    align-items; center;
+    margin: 1em 0.5em;
+  }
+
+  .container--img,
+  .place--desc {
+    width: 90%;
+  }
+
+  .place--desc p {
+    max-width: 100%;
+    width: 100%;
+  }
 }
