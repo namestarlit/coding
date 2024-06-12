@@ -60,6 +60,10 @@ def select_heroes():
         heroes = session.exec(query).all()
         print(heroes)
 
+        query = select(Hero).offset(3).limit(3)
+        res = session.exec(query).all()
+        print(res)
+
 
 def main():
     create_db_and_tables()
