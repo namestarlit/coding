@@ -3,7 +3,7 @@ from sqlmodel import Field, Session, SQLModel, create_engine, or_, col, select
 
 class Hero(SQLModel, table=True):
     id: int | None = Field(default=None, primary_key=True)
-    name: str
+    name: str = Field(index=True)
     secret_name: str
     age: int | None = None
 
