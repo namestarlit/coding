@@ -37,11 +37,19 @@ def select_heroes():
     with Session(engine) as session:
         statement = select(Hero)
 
+        heroes = session.exec(statement).all()
+        print(heroes)
+
+        results = session.exec(statement)
+        for hero in results:
+            print(hero)
+
 
 
 def main():
     create_db_and_tables()
     create_heroes()
+    select_heroes()
 
 
 if __name__ == "__main__":
