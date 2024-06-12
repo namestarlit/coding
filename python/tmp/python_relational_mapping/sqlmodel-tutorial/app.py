@@ -60,15 +60,29 @@ def select_heroes():
         heroes = session.exec(query).all()
         print(heroes)
 
-        query = select(Hero).offset(3).limit(3)
+        query = select(Hero).where(col(Hero.age) > 32).offset(1).limit(2)
         res = session.exec(query).all()
         print(res)
+
+
+def update_heroes():
+    with Session(engine) as session:
+        query = select(Hero).where(col(Hero.name) == "Spider-Boy")
+        hero = session.exec(query).one()
+        print(hero)
+
+        hero.age = 16
+        session.add(hero)
+        session.commit()
+        session.refresh(hero)
+        print(hero)
 
 
 def main():
     create_db_and_tables()
     create_heroes()
     select_heroes()
+    update_heroes()
 
 
 if __name__ == "__main__":
