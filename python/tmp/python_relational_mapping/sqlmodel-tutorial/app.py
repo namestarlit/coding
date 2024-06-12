@@ -78,11 +78,22 @@ def update_heroes():
         print(hero)
 
 
+def delete_heroes():
+    with Session(engine) as session:
+        query = select(Hero).where(col(Hero.name) == "Spider-Boy")
+        hero = session.exec(query).one()
+        print(hero)
+
+        session.delete(hero)
+        session.commit()
+
+
 def main():
     create_db_and_tables()
     create_heroes()
     select_heroes()
     update_heroes()
+    delete_heroes()
 
 
 if __name__ == "__main__":
