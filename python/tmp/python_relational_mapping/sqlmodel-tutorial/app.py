@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from sqlmodel import Field, Session, SQLModel, create_engine, or_, col, select
 
 
@@ -48,7 +49,7 @@ def select_heroes():
             print(hero)
 
         query = select(Hero).where(col(Hero.name) == "Deadpond")
-        res = session.exec(query).all()
+        res = session.exec(query).first()
         print(res)
 
 
