@@ -19,11 +19,6 @@ def create_db_and_tables():
     SQLModel.metadata.create_all(engine)
 
 
-def create_session():
-    session = Session(engine)
-    return session
-
-
 def create_heroes():
     hero_1 = Hero(name="Deadpond", secret_name="Dive Wilson")
     hero_2 = Hero(name="Spider-Boy", secret_name="Pedro Paraqueador")
@@ -48,10 +43,13 @@ def create_heroes():
 def select_heroes():
     with Session(engine) as session:
         statement = select(Hero).where(or_(col(Hero.age) >= 35, col(Hero.age) < 40))
-
         results = session.exec(statement)
         for hero in results:
             print(hero)
+
+        query = select(Hero).where(col(Hero.name) == "Deadpond")
+        res = session.exec(query).all()
+        print(res)
 
 
 def main():
