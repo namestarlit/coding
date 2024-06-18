@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from sqlmodel import Field, Session, SQLModel, create_engine, or_, col, select
+from sqlmodel import Field, Session, SQLModel, col, create_engine, or_, select
 
 
 class Hero(SQLModel, table=True):

@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-from sqlmodel import Field, Relationship, SQLModel, Session, create_engine, select
-
+from sqlmodel import Field, Relationship, Session, SQLModel, create_engine, select
 
 sqlite_file_name = "database.db"
 sqlite_url = f"sqlite:///{sqlite_file_name}"
@@ -25,7 +24,7 @@ class Hero(SQLModel, table=True):
     name: str = Field(index=True)
     secret_name: str
     age: int | None = Field(default=None, index=True)
-    
+
     team_id: int | None = Field(default=None, foreign_key="team.id")
     team: Team | None = Relationship(back_populates="heroes")
 
@@ -34,13 +33,13 @@ def create_heroes():
     with Session(engine) as session:
         team_preventers = Team(name="Preventers", headquarters="Sharp Tower")
         team_z_force = Team(name="Z-Force", headquarters="Sister Margaret's Bar")
-        
+
         session.add(team_preventers)
         session.add(team_z_force)
         session.commit()
 
         hero_deadpond = Hero(
-            name="Deadpond", secret_name="Dive Wilson", team=team_z_force 
+            name="Deadpond", secret_name="Dive Wilson", team=team_z_force
         )
         hero_rusty_man = Hero(
             name="Rusty-Man",
@@ -74,7 +73,7 @@ def create_heroes():
         team_wakaland = Team(
             name="Wakaland",
             headquarters="Wakaland Capital City",
-            heroes=[hero_black_lion, hero_sure_e]
+            heroes=[hero_black_lion, hero_sure_e],
         )
         session.add(team_wakaland)
         session.commit()
