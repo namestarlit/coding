@@ -63,8 +63,7 @@ def create_heroes():
         print("Created Hero:", hero_rusty_man)
         print("Created Hero:", hero_spider_boy)
 
-        # hero_spider_boy.team = team_preventers
-        hero_spider_boy.team = None
+        hero_spider_boy.team = team_preventers
         session.add(hero_spider_boy)
         session.commit()
         session.refresh(hero_spider_boy)
@@ -122,10 +121,25 @@ def select_heroes():
         print("Preventers heroes:", team_preventers.heroes)
 
 
+def update_heroes():
+    with Session(engine) as session:
+        query = select(Hero).where(Hero.name == "Spider-Boy")
+        res = session.exec(query)
+        hero_spider_boy = res.one()
+
+        hero_spider_boy.team = None
+        session.add(hero_spider_boy)
+        session.commit()
+
+        session.refresh(hero_spider_boy)
+        print("Spider-Boy without team:", hero_spider_boy)
+
+
 def main():
     create_db_and_tables()
     create_heroes()
     select_heroes()
+    update_heroes()
 
 
 if __name__ == "__main__":
