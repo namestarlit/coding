@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-from sqlmodel import Field, SQLModel, create_engine
+from sqlmodel import Field, SQLModel, Session, create_engine, select
 
 
 sqlite_file_name = "database.db"
 sqlite_url = f"sqlite:///{sqlite_file_name}"
 
-engine = create_engine(sqlite_url, echo=True)
+engine = create_engine(sqlite_url, echo=False)
 
 
 def create_db_and_tables():
@@ -27,8 +27,53 @@ class Hero(SQLModel, table=True):
     team_id: int | None = Field(default=None, foreign_key="team.id")
 
 
+def create_heroes():
+    with Session(engine) as session:
+        team_preventers = Team(name="Preventers", headquarters="Sharp Tower")
+        team_z_force = Team(name="Z-Force", headquarters="Sister Margaret's Bar")
+        
+        session.add(team_preventers)
+        session.add(team_z_force)
+        session.commit()
+
+        hero_deadpond = Hero(
+            name="Deadpond", secret_name="Dive Wilson", team_id=team_z_force.id 
+        )
+        hero_rusty_man = Hero(
+            name="Rusty-Man",
+            secret_name="Tommy Sharp",
+            age=48,
+            team_id=team_preventers.id,
+        )
+        hero_spider_boy = Hero(name="Spider-Boy", secret_name="Pedro Parqueador")
+
+        session.add(hero_deadpond)
+        session.add(hero_rusty_man)
+        session.add(hero_spider_boy)
+        session.commit()
+
+        session.refresh(hero_deadpond)
+        session.refresh(hero_rusty_man)
+        session.refresh(hero_spider_boy)
+
+        print("Created Hero:", hero_deadpond)
+        print("Created Hero:", hero_rusty_man)
+        print("Created Hero:", hero_spider_boy)
+
+
+def select_heroes():
+    with Session(engine) as session:
+        # query = select(Hero, Team).where(Hero.team_id == Team.id)
+        query = select(Hero, Team).join(Team, isouter=True)
+        res = session.exec(query)
+        for hero, team in res:
+            print("Hero:", hero, "Team:", team)
+
+
 def main():
     create_db_and_tables()
+    create_heroes()
+    select_heroes()
 
 
 if __name__ == "__main__":
