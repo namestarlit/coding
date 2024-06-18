@@ -60,7 +60,8 @@ def create_heroes():
         print("Created Hero:", hero_rusty_man)
         print("Created Hero:", hero_spider_boy)
 
-        hero_spider_boy.team_id = team_preventers.id
+        # hero_spider_boy.team_id = team_preventers.id
+        hero_spider_boy.team_id = None
         session.add(hero_spider_boy)
         session.commit()
         session.refresh(hero_spider_boy)
