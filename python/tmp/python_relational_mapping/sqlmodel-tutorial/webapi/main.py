@@ -98,10 +98,6 @@ def update_hero(
         password = hashed_password(password)
         extra_data["hashed_password"] = hashed_password
 
-    # update using setattr
-    # for key, value in hero_data.items():
-        # setattr(db_hero, key, value)
-
     # update using sqlmodel_update
     db_hero.sqlmodel_update(hero_data, update=extra_data)
     session.add(db_hero)
