@@ -109,6 +109,18 @@ def select_heroes():
         for hero, team in res:
             print("Hero:", hero, "Team:", team)
 
+        query = select(Hero).where(Hero.name == "Spider-Boy")
+        res = session.exec(query)
+        hero_spider_boy = res.one()
+
+        print("Spider-Boy's team again:", hero_spider_boy.team)
+
+        query = select(Team).where(Team.name == "Preventers")
+        res = session.exec(query)
+        team_preventers = res.one()
+
+        print("Preventers heroes:", team_preventers.heroes)
+
 
 def main():
     create_db_and_tables()
