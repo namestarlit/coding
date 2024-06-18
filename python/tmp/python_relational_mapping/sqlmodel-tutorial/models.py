@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from sqlmodel import Field, SQLModel, Session, create_engine, select
+from sqlmodel import Field, Relationship, SQLModel, Session, create_engine, select
 
 
 sqlite_file_name = "database.db"
@@ -17,6 +17,8 @@ class Team(SQLModel, table=True):
     name: str = Field(index=True)
     headquarters: str
 
+    heroes: list["Hero"] = Relationship(back_populates="team")
+
 
 class Hero(SQLModel, table=True):
     id: int | None = Field(default=None, primary_key=True)
@@ -25,6 +27,7 @@ class Hero(SQLModel, table=True):
     age: int | None = Field(default=None, index=True)
     
     team_id: int | None = Field(default=None, foreign_key="team.id")
+    team: Team | None = Relationship(back_populates="heroes")
 
 
 def create_heroes():
@@ -37,13 +40,13 @@ def create_heroes():
         session.commit()
 
         hero_deadpond = Hero(
-            name="Deadpond", secret_name="Dive Wilson", team_id=team_z_force.id 
+            name="Deadpond", secret_name="Dive Wilson", team=team_z_force 
         )
         hero_rusty_man = Hero(
             name="Rusty-Man",
             secret_name="Tommy Sharp",
             age=48,
-            team_id=team_preventers.id,
+            team=team_preventers,
         )
         hero_spider_boy = Hero(name="Spider-Boy", secret_name="Pedro Parqueador")
 
@@ -60,12 +63,42 @@ def create_heroes():
         print("Created Hero:", hero_rusty_man)
         print("Created Hero:", hero_spider_boy)
 
-        # hero_spider_boy.team_id = team_preventers.id
-        hero_spider_boy.team_id = None
+        hero_spider_boy.team = team_preventers
+        # hero_spider_boy.team_id = None
         session.add(hero_spider_boy)
         session.commit()
         session.refresh(hero_spider_boy)
         print("Updated hero:", hero_spider_boy)
+
+        hero_black_lion = Hero(name="Black Lion", secret_name="Trevor Challa", age=35)
+        hero_sure_e = Hero(name="Princess Sure-E", secret_name="Sure-E")
+        team_wakaland = Team(
+            name="Wakaland",
+            headquarters="Wakaland Capital City",
+            heroes=[hero_black_lion, hero_sure_e]
+        )
+        session.add(team_wakaland)
+        session.commit()
+        session.refresh(team_wakaland)
+        print("Team Wakaland:", team_wakaland)
+
+        hero_tarantula = Hero(name="Tarantula", secret_name="Natalia Roman-on", age=32)
+        hero_dr_weird = Hero(name="Dr. Weird", secret_name="Steve Weird", age=36)
+        hero_cap = Hero(
+            name="Captain North America", secret_name="Esteban Rogelios", age=93
+        )
+
+        team_preventers.heroes.append(hero_tarantula)
+        team_preventers.heroes.append(hero_dr_weird)
+        team_preventers.heroes.append(hero_cap)
+        session.add(team_preventers)
+        session.commit()
+        session.refresh(hero_tarantula)
+        session.refresh(hero_dr_weird)
+        session.refresh(hero_cap)
+        print("Preventers new hero:", hero_tarantula)
+        print("Preventers new hero:", hero_dr_weird)
+        print("Preventers new hero:", hero_cap)
 
 
 def select_heroes():
