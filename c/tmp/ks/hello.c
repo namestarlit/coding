@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    char a[] = "Hello, World!";
-
-    printf("%s\n", a);
+    printf("Hello world!\n");
+  return (0);
 }
