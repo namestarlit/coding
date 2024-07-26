@@ -1,7 +1,0 @@
-## To create a vite project run the commands
-npm create vite@latest
-
-# put the project name and the frameworks used then install dependecies
-cd my-project
-npm install
-npm run dev
