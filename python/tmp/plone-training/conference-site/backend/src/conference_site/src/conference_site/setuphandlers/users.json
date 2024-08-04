@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "collective@plone.org",
+      "properties": {
+        "fullname": "conference site",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "conference-site"
+    }
+  ],
+    "team": [
+  ]
+}

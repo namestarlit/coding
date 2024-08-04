@@ -1,0 +1,5 @@
+{
+  "volto-conference-site": {
+    "local": "addons/volto-conference-site/src"
+  }
+}

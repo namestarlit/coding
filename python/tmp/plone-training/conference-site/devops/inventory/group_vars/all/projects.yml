@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store conference-site.example.com postgres data
+  - path: "/srv/conference-site/data"
+    owner: 999
+    group: 999
+    mode: "0750"
